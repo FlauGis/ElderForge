@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Assets/AN Interactive Physical Door Pack/Scripts/AN_HeroController.cs.meta
+guid: cec1f8ffaa3aa6f41bddcd0ad30cf486
+========
+guid: cef971f6f34fa0744b3d7e82090bb6e9
+>>>>>>>> ce6b7d95f16d1a69f1399dbeb31a9f08ce217f8a:Assets/UI/CraftingSystem/Scripts/ControlInputValue.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
