@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2c2ef87d4588f429578a9da8097fa8, type: 3}
+  m_Name: StartTrousers
+  m_EditorClassIdentifier: 
+  itemName: Trousers
+  maximumAmount: 1
+  itemDropPrefab: {fileID: 8050829582797475655, guid: 9a2af93228e80a0418e6aec1c60532ce,
+    type: 3}
+  itemPrefabArmorInPlayer: {fileID: 3650578624360847622, guid: ee6e827edf7f2e44486e4b1bd0d1f2fb,
+    type: 3}
+  icon: {fileID: 21300000, guid: 48fab690dcfd41548ab0069b7cfd71c7, type: 3}
+  itemType: 5
+  clothType: 3
+  itemDescription: 
+  isConsumeable: 0
+  isSpell: 0
+  inHandName: 
+  itemHealth: 0
+  isBroken: 0
+  maximumDurability: 100
+  changeHealth: 0
+  changeHunger: 0
+  resourseNeededToRapair: {fileID: 0}

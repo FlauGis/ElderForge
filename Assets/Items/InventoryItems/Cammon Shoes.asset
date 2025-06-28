@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2c2ef87d4588f429578a9da8097fa8, type: 3}
+  m_Name: Cammon Shoes
+  m_EditorClassIdentifier: 
+  itemName: Cammon Shoes
+  maximumAmount: 1
+  itemDropPrefab: {fileID: 1384722613246433137, guid: 9c3de32a4b2ca1a4da01fb75a699fe57,
+    type: 3}
+  itemPrefabArmorInPlayer: {fileID: 2419443986715170657, guid: 7a670a29a7dc3db4286f686b59773b65,
+    type: 3}
+  icon: {fileID: 21300000, guid: 114f119b3f8af8149b404f66961d61dc, type: 3}
+  itemType: 5
+  clothType: 4
+  itemDescription: 
+  isConsumeable: 0
+  isSpell: 0
+  inHandName: 
+  itemHealth: 0
+  isBroken: 1
+  maximumDurability: 35
+  currentDurability: 35
+  changeHealth: 0
+  changeHunger: 0

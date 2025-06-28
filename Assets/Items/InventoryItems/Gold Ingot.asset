@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2c2ef87d4588f429578a9da8097fa8, type: 3}
+  m_Name: Gold Ingot
+  m_EditorClassIdentifier: 
+  itemName: Gold ingot
+  maximumAmount: 16
+  itemDropPrefab: {fileID: 4172133593500258723, guid: a49d6573ce68bd345ad5a90cc8a39fd9,
+    type: 3}
+  itemPrefabArmorInPlayer: {fileID: 0}
+  icon: {fileID: 21300000, guid: b251d2430158a50429cff584e8ef2b80, type: 3}
+  itemType: 7
+  clothType: 0
+  itemDescription: 
+  isConsumeable: 0
+  isSpell: 0
+  inHandName: 
+  itemHealth: 0
+  isBroken: 0
+  maximumDurability: 0
+  changeHealth: 0
+  changeHunger: 0

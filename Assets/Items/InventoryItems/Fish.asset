@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2c2ef87d4588f429578a9da8097fa8, type: 3}
+  m_Name: Fish
+  m_EditorClassIdentifier: 
+  itemName: Fish
+  maximumAmount: 16
+  itemDropPrefab: {fileID: 7630598384055880370, guid: a9e8e1859bf8bc241a5e93c72a5fc112,
+    type: 3}
+  itemPrefabArmorInPlayer: {fileID: 0}
+  icon: {fileID: 21300000, guid: d3316fbdddb3b5246996a2fcad5c47d9, type: 3}
+  itemType: 1
+  clothType: 0
+  itemDescription: 
+  isConsumeable: 1
+  isSpell: 0
+  inHandName: 
+  itemHealth: 0
+  isBroken: 0
+  maximumDurability: 0
+  changeHealth: 10
+  changeHunger: 25
