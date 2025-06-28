@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Assets/AN Interactive Physical Door Pack/Scripts/AN_DoorScript.cs.meta
+guid: a23d7804d5e3a0d4cb0e72ed2f7c6837
+========
+guid: b7259ab21f297014988702051b54efd3
+>>>>>>>> ce6b7d95f16d1a69f1399dbeb31a9f08ce217f8a:Assets/Scripts/ClothAdder.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

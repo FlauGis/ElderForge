@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Assets/AN Interactive Physical Door Pack/Scripts/AN_DoorKey.cs.meta
+guid: 119f323ea51e51644aac303425640273
+========
+guid: 979b2cc54a3657e4eb109dfb3805c3fb
+>>>>>>>> ce6b7d95f16d1a69f1399dbeb31a9f08ce217f8a:Assets/Scripts/ShieldScript.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

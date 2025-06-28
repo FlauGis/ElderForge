@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Assets/AN Interactive Physical Door Pack/Scripts/AN_Button.cs.meta
+guid: 354a378e82f9d224d8c66706ecf4f493
+========
+guid: 00bfc3c5f754dfa45812fa4320d497a7
+>>>>>>>> ce6b7d95f16d1a69f1399dbeb31a9f08ce217f8a:Assets/Scripts/AnimatorHelper.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
